@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## My sister is a bean
 
 
 #### Here are some example pages:
